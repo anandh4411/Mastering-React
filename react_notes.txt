@@ -1,0 +1,12 @@
+# <-- PART 1 - Getting Started -->
+
+1. Setting up development environment
+    * install nodejs (for getting npm)
+    * sudo npm i -g create-react-app@1.5.2
+    * create-react-app is a package used tocreate react apps
+    * use the specific version that mosh uses
+    * then download vscode
+    * and install 2 extensions that makes bulding react apps easier
+    * search 'simple react snippets' by burke holland
+    * second one is prettier code formater (you might have that before anandh)
+    
